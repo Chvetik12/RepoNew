@@ -4,7 +4,9 @@
 
 # _!!! IMPORTENT!!!_ Do not delete this repositiry.
 
-##
+'''''''''''''''''''''''''''''''''''''''''''''''
+This text was added to demonstrate GitHub editor.
+'''''''''''''''''''''''''''''''''''''''''''''''
 
 - Code example c#:
 
